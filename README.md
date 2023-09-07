@@ -14,6 +14,15 @@ Car-Rental-Website is a car rental website which is aimed at developing an onlin
 3. It has a 'Pick up date & return date' section which help user to book their vehicle according to their date and time.
 4. The website also have features like 'review section' which user can check and decide to book a better vehicle according to their choice.
 
+## ## Technologies Used
+
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- ScrollReveal
+- Google Fonts
+
 ## Point of Improvement
 
 1. It still requires a payment gateway to be integrated into it so as to enable the users to pay for their rent.
